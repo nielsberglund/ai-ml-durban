@@ -1,0 +1,18 @@
+
+
+.post_header_new {
+  background-color:#51595f;
+  color:#fff;
+  padding:20px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center
+}
+
+.header-link {
+  color:#fff;
+  text-decoration:none;
+  margin-right:20px
+}
+
+.header-right{margin:0}
