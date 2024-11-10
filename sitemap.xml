@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aimldatadurban.org/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2023/ai-ml-infusion-dbn-agenda-qr/</loc>
+    <loc>http://localhost:1313/events/2023/ai-ml-infusion-dbn-agenda-qr/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2023/ai-ml-infusion-dbn-agenda/</loc>
+    <loc>http://localhost:1313/events/2023/ai-ml-infusion-dbn-agenda/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2023/ai-ml-infusion-dbn-agenda2/</loc>
+    <loc>http://localhost:1313/events/2023/ai-ml-infusion-dbn-agenda2/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2023/ai-ml-infusion-dbn-agenda3/</loc>
+    <loc>http://localhost:1313/events/2023/ai-ml-infusion-dbn-agenda3/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2023/ai-ml-infusion-dbn-sessions/</loc>
+    <loc>http://localhost:1313/events/2023/ai-ml-infusion-dbn-sessions/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2023/ai-ml-infusion-dbn-speakers/</loc>
+    <loc>http://localhost:1313/events/2023/ai-ml-infusion-dbn-speakers/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2023/ai-ml-infusion-dbn/</loc>
+    <loc>http://localhost:1313/events/2023/ai-ml-infusion-dbn/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2023/iframe-test-1/</loc>
+    <loc>http://localhost:1313/events/2023/iframe-test-1/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/_template-event-1/</loc>
+    <loc>http://localhost:1313/events/2024/_template-event-1/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/data-ai-community-day-dbn-1/</loc>
+    <loc>http://localhost:1313/events/2024/data-ai-community-day-dbn-1/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/data-ai-day-1-agenda/</loc>
+    <loc>http://localhost:1313/events/2024/data-ai-day-1-agenda/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/data-ai-day-1-speakers/</loc>
+    <loc>http://localhost:1313/events/2024/data-ai-day-1-speakers/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/season-of-ai-1-agenda/</loc>
+    <loc>http://localhost:1313/events/2024/season-of-ai-1-agenda/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/season-of-ai-1-sessions/</loc>
+    <loc>http://localhost:1313/events/2024/season-of-ai-1-sessions/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/season-of-ai-1-speakers/</loc>
+    <loc>http://localhost:1313/events/2024/season-of-ai-1-speakers/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/season-of-ai-1/</loc>
+    <loc>http://localhost:1313/events/2024/season-of-ai-1/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/season-of-ai-nov-sessions/</loc>
+    <loc>http://localhost:1313/events/2024/season-of-ai-nov-sessions/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/season-of-ai-nov-speakers/</loc>
+    <loc>http://localhost:1313/events/2024/season-of-ai-nov-speakers/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/season-of-ai-nov/</loc>
+    <loc>http://localhost:1313/events/2024/season-of-ai-nov/</loc>
   </url><url>
-    <loc>https://aimldatadurban.org/events/2024/template-1/</loc>
+    <loc>http://localhost:1313/events/2024/template-1/</loc>
   </url>
 </urlset>
